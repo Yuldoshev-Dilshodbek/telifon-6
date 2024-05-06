@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header__logo {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    width: 355px;
+    padding: 15px 0;
+}
+
+.main__hero {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.main__logo {
+    margin-left: 25px;
+    margin-top: 18px;
+}
+
+.main__jpg {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.main__bottom {
+    text-align: center;
+    margin-top: 12px;
+}
